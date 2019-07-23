@@ -1,1 +1,2 @@
 # Studying-Rope-Split
+Ropes are presented in Wikipedia.  However, there is only a small partial example about logaritmic splitting of the rope.  I wanted to try a real implementation.  The file also contains some other methods for a rope, mainly as described in Wikipedia.  Some real implementations of ropes exist, for instance splay trees.  In GitHug there is a rope implementation in https://github.com/tzlaine/Rope
